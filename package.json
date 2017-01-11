@@ -1,5 +1,5 @@
 {
-  "name": "@types/map",
+  "name": "@typed/map",
   "version": "0.0.0",
   "description": "Map over things with types :fire:",
   "main": "lib/index.js",
